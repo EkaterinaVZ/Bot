@@ -1,8 +1,8 @@
-# Bot
-<h1>Echo bot for vk.com<h1>
+
+<h2>Echo bot for vk.com<h2>
  Use python 3.9
 
- <h2>The scenario of registration for the conference via vk.com<h2>
+ <h4>The scenario of registration for the conference via vk.com<h4>
 
  Supports answers to questions about the date, venue and registration scenario:
  - requesting a name;
