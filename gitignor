@@ -1,0 +1,5 @@
+.idea
+settings.py
+_pycach_
+venv
+*.log
