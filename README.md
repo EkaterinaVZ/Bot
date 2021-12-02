@@ -6,7 +6,7 @@
 
  Supports answers to questions about the date, venue and registration scenario:
  - requesting a name;
- - request email
- - we are talking about successful registration
+ - request email;
+ - we are talking about successful registration.
  If the step is not passed, we ask a clarifying question until the step is passed.
  """
